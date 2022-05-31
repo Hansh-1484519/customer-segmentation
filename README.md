@@ -1,0 +1,2 @@
+# customer-segmentation
+In current competitive age Data is everything. Businesses take all their decisions based on data. Customer behavior is all in all every business want to understand to reach out to their potential customer by taking relevant decisions to enhance their sales. So customers sales behavior analysis is very important now a days. After exploratory data analysis on the given data and based on the features extracted from the data, we have developed this project using k-means clustering algorithm for customer segmentation.    
